@@ -1,11 +1,9 @@
 # Pet Travel Found
 
 <div align="center">
-  <img width="240" alt="Pet Travel Found Logo" src="./src/assets/images/logo.png" />
+  <img width="auto" alt="Pet Travel Found Logo" src="./src/assets/images/logo.png" />
   <br />
   <br />
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoorm-fullstack-team-1%2Fpet-travel-found&count_bg=%232F5B4E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 # Pet Travel Found
@@ -19,6 +17,7 @@
 > **프론트엔드 배포** : AWS S3 정적 웹 호스팅 기반 배포 파이프라인 구성 <br />
 > **배포 자동화** : GitHub Actions를 통한 빌드 및 S3 업로드 자동화 <br />
 > **배포 문서** : [S3_IAM_Project_Deploy_Setup.md](./aws/S3_IAM_Project_Deploy_Setup.md)
+> **배포 링크** : http://pet-travel-found-bucket.s3-website-ap-southeast-2.amazonaws.com/
 
 ## 프로젝트 소개
 
