@@ -1,11 +1,9 @@
 # Pet Travel Found
 
 <div align="center">
-  <img width="240" alt="Pet Travel Found Logo" src="./src/assets/images/logo.png" />
+  <img width="auto" alt="Pet Travel Found Logo" src="./src/assets/images/logo.png" />
   <br />
   <br />
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoorm-fullstack-team-1%2Fpet-travel-found&count_bg=%232F5B4E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 # Pet Travel Found
