@@ -16,6 +16,7 @@
 > **프론트엔드 배포** : AWS S3 정적 웹 호스팅 기반 배포 파이프라인 구성 <br />
 > **배포 자동화** : GitHub Actions를 통한 빌드 및 S3 업로드 자동화 <br />
 > **배포 문서** : [S3_IAM_Project_Deploy_Setup.md](./aws/S3_IAM_Project_Deploy_Setup.md)
+> **배포 링크** : http://pet-travel-found-bucket.s3-website-ap-southeast-2.amazonaws.com/
 
 ## 프로젝트 소개
 
